@@ -1,5 +1,5 @@
 # miniproject3
-#ec601 miniproject3 database
+#ec601 miniproject3 database\n
 #You should get your own google credentials to run the scripts.
 #There are some bugs containend in the program which will be updated later.
 #This version runs well on the windows environment. But there is no garantee to work well on mac.
